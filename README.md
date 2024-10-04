@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat Dawange</h1>
-<h3 align="center">Currently pursuing Computer Science and Engineering at MIT-WPU</h3>
+<h3 align="center">Currently pursuing Masters of Data Science at Monash University</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
